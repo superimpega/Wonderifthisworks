@@ -46,7 +46,7 @@ function join(user)
 
 function leave(user)
 {
-    API.sendChat("/me " + user.username + " left The Room. =( ");
+    API.sendchat  " + user. + ". =( ");
 }
 
 function f_curate(data)
